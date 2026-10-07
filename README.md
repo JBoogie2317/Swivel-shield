@@ -1,13 +1,13 @@
 # 🛡️ Swivel Shield
 
-> **A Cash App-inspired payment defense system that stops social engineering scams using real-time AI risk detection, spoken voice warnings, 3-second cooldown locks, and a 24-hour recallable Solana escrow.**
+> **A payment defense system that stops social engineering scams using real-time AI risk detection, spoken voice warnings, 3-second cooldown locks, and a 24-hour recallable Solana escrow.**
 
 ---
 
 ## 📌 Project Overview
 Link to the project https://ai.studio/apps/a99bab40-4230-4bde-89b1-ce87f0650c6c
 
-**Swivel Shield** is an interactive, real-time behavioral payment fraud defense system built directly on top of a Cash App–inspired peer-to-peer mobile payment interface. 
+**Swivel Shield** is an interactive, real-time behavioral payment fraud defense system built directly on top of a peer-to-peer mobile payment interface. 
 
 Designed to disrupt Authorized Push Payment (APP) scams (such as fake bail emergencies, sneaker advance-fee deposits, marketplace traps, or crypto doubling schemes), Swivel Shield interrupts the artificial urgency created by scammers before non-refundable money leaves a user's account.
 
